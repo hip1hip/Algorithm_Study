@@ -8,7 +8,12 @@ public class Main10950 {
         int t = sc.nextInt();
 
         for (int i = 1; i <= t; i++) {
-            System.out.print(i);
+
+            int a = sc.nextInt();
+            int b = sc.nextInt();
+            int c = a + b;
+            System.out.println(c);
+
         }
     }
 }
