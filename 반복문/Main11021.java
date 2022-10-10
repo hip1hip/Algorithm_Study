@@ -12,7 +12,7 @@ public class Main11021 {
             int a = sc.nextInt();
             int b = sc.nextInt();
             int c = a + b;
-            System.out.println("Case #" + i + ": " + c);
+            System.out.println("Case #" + i + ": " + a + " + " + b + " = " + c);
 
         }
     }
