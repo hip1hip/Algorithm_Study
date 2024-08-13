@@ -20,7 +20,7 @@ public class Main369_02 {
     }
 }
 
-// {
+// {  
 // System.out.print(x + " ㅉ, ");
 // } else if (x == 30) {
 // System.out.print(x + " ㅉ, ");
